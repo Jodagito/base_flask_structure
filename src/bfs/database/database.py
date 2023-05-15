@@ -4,7 +4,7 @@ from sqlalchemy import create_engine
 from sqlalchemy.orm import scoped_session, sessionmaker
 from sqlalchemy.ext.declarative import declarative_base
 
-from base_flask_structure.config import Settings
+from bfs.config import Settings
 
 
 class AbstractDataBase(ABC):
