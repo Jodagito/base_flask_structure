@@ -1,0 +1,1 @@
+from base_flask_structure.config.settings import Settings
