@@ -40,4 +40,5 @@ Can be easily installed via pip.
             self.Base.metadata.create_all(bind=self.engine)
 
 ## Version
-**0.0.1**
+
+0.0.0
