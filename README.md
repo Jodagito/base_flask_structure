@@ -41,4 +41,4 @@ Can be easily installed via pip.
 
 ## Version
 
-0.0.0
+1.0.0
